@@ -1,4 +1,5 @@
 @rem
+[11ty] Writing ./public/blog.html from ./src/blog.md (liquid)
 @rem Copyright 2015 the original author or authors.
 @rem
 @rem Licensed under the Apache License, Version 2.0 (the "License");

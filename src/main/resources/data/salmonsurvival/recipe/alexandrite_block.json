@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "/": "salmonsurvival:alexandrite"
+  },
+  "pattern": [
+    "///",
+    "///",
+    "///"
+  ],
+  "result": {
+    "count": 1,
+    "id": "salmonsurvival:alexandrite_block"
+  }
+}
