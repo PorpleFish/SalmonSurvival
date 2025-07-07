@@ -1,0 +1,3 @@
+// 1.21.4	2025-07-01T09:43:59.368049507	Tags for minecraft:block mod id salmonsurvival
+c86f210c07cc37a256130bc1223e645b3cb0c22b data/minecraft/tags/block/mineable/pickaxe.json
+c86f210c07cc37a256130bc1223e645b3cb0c22b data/minecraft/tags/block/needs_stone_tool.json
